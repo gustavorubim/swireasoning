@@ -59,7 +59,7 @@ six==1.17.0
 smmap==5.0.2
 sympy==1.13.1
 tokenizers==0.21.2
-torch==2.5.1
+torch==2.13.0
 tqdm==4.67.0
 transformers==4.54.0
 triton==3.1.0
